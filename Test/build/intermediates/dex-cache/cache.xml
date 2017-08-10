@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_40773ba16dddca3fb5d60993258fdfee84789053/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="409a16fe444e8e7ae7a6ec27bda411aa2e703b0a">
+        <dex dex="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_40976c0c7a0ddbd6d316f024f84fafdb73bf65d9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_ceb5cf842e7dd8f50ac2b2c005ca4c58a88e87a7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_835f1ecad6211e4907031951a7f56ffd6d6b63f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xubojoy/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_4a4db4b3e9d04661038240413a8055102f4bc16c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_e36df5ccabb6b70c3088ee71311900baab8bac8c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_6225676b378360cf04ce5de279f9ecb04ad37207/classes.dex" />
+    </item>
+    <item
+        jar="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1394470cc13e66d036cf72eba7e4ffc7d8d410b7">
+        <dex dex="/Users/xubojoy/Documents/Android/Test/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0a5ba1f8fa1fc9b1ececebc8bc792c744f969a5b/classes.dex" />
+    </item>
+
+</items>
